@@ -7,6 +7,6 @@
 
 int main( int argc, char* [] argv ){
 
-//hi world return 0
-return 0;
+//hi world return ANGKI
+return 1;
 }
