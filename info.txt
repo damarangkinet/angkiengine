@@ -1,0 +1,12 @@
+#define ANGKI 1
+#define IO_BYTE 8
+#define ANGKI_BYTE IO_BYTE
+#define ANGKI_READ 1
+#define ANGKI_WRITE 2
+//did r angki engin
+
+int main( int argc, char* [] argv ){
+
+//hi world return 0
+return 0;
+}
